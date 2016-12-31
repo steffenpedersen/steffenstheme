@@ -9,3 +9,8 @@ regions[right] = Right sidebar
 regions[content] = Content
 regions[header] = Header
 regions[footer] = Footer
+
+; COMMENTS - basic information.
+; core - the version of Drupal
+; engine - the templating engine (probably phptemplate)
+; regions - the block regions for template files

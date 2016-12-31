@@ -1,3 +1,14 @@
+<!--
+Drupal themes are based on template files, defined with the extension .tpl.php.
+If you want to create a very simple theme, you actually don't need to have any template files at all.
+Your theme could be just CSS. Drupal comes with default template files for all of the code it outputs.
+
+There's a lot of templates
+comment.tpl.php
+search-results.tpl.php
+html.tpl.php
+-->
+
 <div id="wrapper">
 
   <div id="header">
