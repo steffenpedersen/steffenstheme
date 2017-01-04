@@ -2,13 +2,19 @@ name = steffenstheme
 description = This is a description.
 core = 7.x
 engine = phptemplate
+
 stylesheets[all][] = css/reset.css
 stylesheets[all][] = css/style.css
+
 regions[left] = Left sidebar
 regions[right] = Right sidebar
 regions[content] = Content
 regions[header] = Header
 regions[footer] = Footer
+
+features[] = main_menu
+features[] = favicon
+features[] = name
 
 ; COMMENTS - basic information.
 ; core - the version of Drupal

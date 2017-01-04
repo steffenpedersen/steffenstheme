@@ -51,6 +51,7 @@ html.tpl.php
   <div id="footer">
     <?php if ($page['footer']): ?>
       <?php print render($page['footer']); ?>
+      <p>Copyright <?php print theme_get_setting('copyright'); ?></p>
     <?php endif; ?>
   </div>
 
